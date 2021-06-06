@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Alex Goodwin
+ */
+
 package org.example;
 
 import java.text.DecimalFormat;
@@ -25,6 +30,7 @@ public class App {
         String o33 = money.nextLine();
         int q3 = Integer.parseInt(o33);
 
+        //calculations
         double t1 = i1 * q1;
         double t2 = i2 * q2;
         double t3 = i3 * q3;
